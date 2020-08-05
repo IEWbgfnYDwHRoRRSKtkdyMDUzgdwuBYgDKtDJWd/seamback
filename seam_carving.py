@@ -14,7 +14,7 @@ from numba import jit
 from scipy import ndimage as ndi
 
 SEAM_COLOR = np.array([255, 200, 200])    # seam visualization color (BGR)
-SHOULD_DOWNSIZE = True                    # if True, downsize image for faster carving
+SHOULD_DOWNSIZE = False                    # if True, downsize image for faster carving
 DOWNSIZE_WIDTH = 500                      # resized image width if SHOULD_DOWNSIZE is True
 ENERGY_MASK_CONST = 100000.0              # large energy value for protective masking
 MASK_THRESHOLD = 10                       # minimum pixel intensity for binary mask
