@@ -1,5 +1,7 @@
 (From https://github.com/andrewdcampbell/seam-carving/  , testing out some video conversion.)
+
 (also testing some batch dimensional conversion with forward algo v imagemagick seam algo)
+
 # seam-carving
 
 
