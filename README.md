@@ -1,3 +1,5 @@
+(From https://github.com/andrewdcampbell/seam-carving/  , testing out some video conversion.)
+
 # seam-carving
 
 
