@@ -74,7 +74,6 @@ The input image is on the left and the result of the algorithm is on the right.
 
 Animated gif:
 
-<img src="https://github.com/andrewdcampbell/seam-carving/blob/master/demos/visuals/eiffel_remove.gif" width="700">
 
 ## Comparison between Energy Functions
 
